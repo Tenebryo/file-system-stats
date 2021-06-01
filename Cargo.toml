@@ -1,5 +1,5 @@
 [package]
-name = "dir-stat"
+name = "file-system-stats"
 version = "0.1.0"
 authors = ["Sam Blazes <blazes.sam@gmail.com>"]
 edition = "2018"
