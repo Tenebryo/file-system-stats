@@ -5,6 +5,12 @@ are being used, inspired by WinDirStat. The goal of this project was to make
 a faster version of WinDirStat with perhaps not all the features. The current
 version scans 350k files on my 1TB SSD in under 45 seconds.
 
+## Installation
+
+ * Install nightly Rust via [rustup.rs](https://rustup.rs/)
+ * Build with the command `cargo +nightly build --release`
+ * Executable will be in the `target/release/` directory
+
 ## Implemented Features
 
  - [x] Directory walking and scanning
